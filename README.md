@@ -4,6 +4,8 @@ A trade-show prize board. A light races around 18 tiles, you press a button to
 stop it, and then you decide: bank what you've won, or press on and risk a
 **Short Circuit** that wipes your bank to zero.
 
+![Chip Your Luck in action](docs/demo.gif)
+
 Original board art, original names, no theme music. The bank-or-press mechanic
 is a mechanic, not a copyrightable thing.
 
