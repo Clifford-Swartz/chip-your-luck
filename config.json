@@ -1,0 +1,159 @@
+{
+  "title": "CHIP YOUR LUCK",
+  "subtitle": "BIG BUCKS, NO SHORT CIRCUITS!",
+  "fullscreen": true,
+  "spins": 3,
+  "short_circuit_count": 3,
+  "hop_ms_start": 460,
+  "hop_ms_end": 240,
+  "hop_accel_spins": 2,
+  "reshuffle_each_spin": true,
+  "attract_idle_seconds": 45,
+  "flash_ms": 140,
+  "blink_ms": 500,
+  "resolve_hold_ms": 2600,
+  "short_circuit_hold_ms": 3400,
+  "game_over_hold_ms": 6000,
+  "log_csv": "results.csv",
+  "keys": {
+    "buzzer": [
+      "space",
+      "return"
+    ],
+    "bank": [
+      "b"
+    ],
+    "start": [
+      "space",
+      "return"
+    ],
+    "admin": [
+      "f1"
+    ],
+    "quit": [
+      "escape"
+    ]
+  },
+  "tiles": [
+    {
+      "label": "$100",
+      "value": 100,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$250",
+      "value": 250,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$500",
+      "value": 500,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$750",
+      "value": 750,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$1000",
+      "value": 1000,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$1500",
+      "value": 1500,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$250 + ONE SPIN",
+      "value": 250,
+      "type": "prize_plus_spin",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$500 + ONE SPIN",
+      "value": 500,
+      "type": "prize_plus_spin",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "DEV BOARD",
+      "value": 300,
+      "type": "prize",
+      "qty": 12,
+      "image": "",
+      "unlimited": false
+    },
+    {
+      "label": "STARTER KIT",
+      "value": 200,
+      "type": "prize",
+      "qty": 20,
+      "image": "",
+      "unlimited": false
+    },
+    {
+      "label": "T-SHIRT",
+      "value": 50,
+      "type": "prize",
+      "qty": 50,
+      "image": "",
+      "unlimited": false
+    },
+    {
+      "label": "$400",
+      "value": 400,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$600",
+      "value": 600,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$800",
+      "value": 800,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    },
+    {
+      "label": "$2000",
+      "value": 2000,
+      "type": "prize",
+      "qty": 0,
+      "image": "",
+      "unlimited": true
+    }
+  ]
+}

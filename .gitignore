@@ -1,0 +1,20 @@
+# Build output -- shipped as a GitHub Release asset, not committed.
+build/
+dist/
+*.spec
+
+# Runtime
+results.csv
+config.json.tmp
+
+# Operator-supplied media. The folders are tracked, the contents are not.
+assets/prizes/*
+assets/sounds/*
+!assets/prizes/.gitkeep
+!assets/sounds/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
